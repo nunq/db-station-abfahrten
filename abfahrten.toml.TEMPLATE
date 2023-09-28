@@ -1,0 +1,8 @@
+[general]
+max_results = 6
+station_id = <station id: int>
+station_name = <station name: str>
+
+[direction_overrides]
+"zu langer endhaltestellen name" = "kurzer name"
+
